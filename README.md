@@ -104,8 +104,8 @@ django/
 
 I’m building this portfolio as part of my journey into backend development and web technologies.
 
-💼 LinkedIn: www.linkedin.com/in/iheanyi-okwara-90a3842a9
+💼 [LinkedIn](https://www.linkedin.com/in/iheanyi-okwara-90a3842a9)
 
-🧑‍💻 GitHub: https://github.com/iheanyi-okwara/django-projects.git
+🧑‍💻 [GitHub](https://github.com/iheanyi-okwara/django-projects.git)
 
 ✉️ Email: okwaraiheanyi@gmail.com
